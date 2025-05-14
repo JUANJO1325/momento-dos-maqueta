@@ -23,7 +23,7 @@ const Register = ({ onRegister }) => {
 
   return (
     <div className="register-page">
-      <h1>A Web Page</h1>
+      <h1>EcoBox</h1>
       <form onSubmit={handleSubmit} className="register-form">
         <div className="form-group">
           <label htmlFor="usuario">Usuario</label>

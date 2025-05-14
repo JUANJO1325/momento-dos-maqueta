@@ -21,7 +21,8 @@ const Login = ({ onLogin }) => {
 
   return (
     <div className="login-page">
-      <h1>A Web Page</h1>
+        <div className="main-page-login">
+      <h1>EcoBox</h1>
       <form onSubmit={handleSubmit} className="login-form">
         <div className="form-group">
           <label htmlFor="usuario">Usuario</label>
@@ -48,6 +49,7 @@ const Login = ({ onLogin }) => {
         <button type="submit" className="login-button">Iniciar Sesión</button>
       </form>
       <p className="register-link">¿No tiene una cuenta? <a href="/register">Regístrese aquí</a></p>
+    </div>
     </div>
   );
 };

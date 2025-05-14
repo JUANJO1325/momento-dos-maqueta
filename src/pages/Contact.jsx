@@ -9,9 +9,9 @@ const Contact = () => {
       <main className="contact-content">
         <h1>Contacto</h1>
         <div className="contact-info">
-          <p>Email: contacto@serviciolocal.com</p>
-          <p>Teléfono: +123 456 7890</p>
-          <p>Dirección: Calle Principal #123, Ciudad</p>
+          <p>Email: servicios@ecobox.com</p>
+          <p>Teléfono: +57 3206902440</p>
+          <p>Dirección: Calle 48 C Norte 24#42</p>
         </div>
       </main>
     </div>

@@ -1,0 +1,13 @@
+.home-page{
+    display: flex;
+}
+
+
+.home-content{
+    margin-left: 240px;
+    padding: 25px;
+}
+
+.text-size{
+    font-size: 33px;
+}

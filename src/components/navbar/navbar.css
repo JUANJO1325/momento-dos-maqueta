@@ -1,0 +1,24 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh;
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 65px;
+    align-items: center;
+}
+
+.logout-button{
+    margin-top: 70px;
+}
